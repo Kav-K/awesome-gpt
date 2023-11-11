@@ -97,6 +97,7 @@ words with AI, powered by DALL·E.
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Feishu + (GPT-3.5, DALL·E, Whisper).
 - [gerev](https://github.com/GerevAI/gerev) - AI-powered search engine for workplaces.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
+- [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - Full OpenAI integration for Discord, multi-modal chat, infinite length conversations, etc.
 
 ## Sponsors
 
